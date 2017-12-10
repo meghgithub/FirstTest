@@ -4,7 +4,7 @@ public class TestDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("this is my first program");
+		System.out.println("I have changed this program just now.");
 
 	}
 
